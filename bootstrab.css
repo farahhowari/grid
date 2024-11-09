@@ -1,0 +1,13 @@
+.navbar-brand{
+    color: blue;
+}
+.logo{
+    width: 100px;
+height: 50px;
+}
+.nav-link:hover{
+    color: blue;
+}
+#link:hover{
+color: brown;
+}
